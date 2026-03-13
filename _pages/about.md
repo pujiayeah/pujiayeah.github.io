@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-My name is jia pu.
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My name is Jia Pu. I am currently a graduate student in the School of Mathematical Sciences at Beijing University of Posts and Telecommunications, enrolled in the 2023 cohort of the Mathematics program. My master's research focuses on quantum information, with particular interest in device-independent self-testing of quantum systems. I am also developing an interest in large language model reasoning and multi-agent systems, and am actively studying these areas.
+ 
 
 A data-driven personal website
 ======
