@@ -12,7 +12,7 @@ My name is Pu Jia. I am currently a master's student in the School of Mathematic
 I have a strong interest in civil aviation and aircraft, and I enjoy learning about aircraft handling and different aircraft types. I am also interested in automobiles, and tend to be somewhat more interested in internal combustion engine vehicles.
 
 <p align="center">
-  <img src="/images/plane.png" alt="plane" width="500">
+  <img src="/images/plane.png" alt="plane" width="400">
 </p>
 
 A data-driven personal website
