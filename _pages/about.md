@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jia Pu. I am currently a graduate student in the School of Mathematical Sciences at Beijing University of Posts and Telecommunications, enrolled in the 2023 cohort of the Mathematics program. My master's research focuses on quantum information, with particular interest in device-independent self-testing of quantum systems. I am also developing an interest in large language model reasoning and multi-agent systems, and am actively studying these areas.
+My name is Pu Jia. I am currently a master's student in the School of Mathematical Sciences at Beijing University of Posts and Telecommunications, enrolled in the Mathematics program in 2023. My research focuses on quantum information, with a particular interest in device-independent self-testing of quantum systems. I have also developed a strong interest in the reasoning capabilities of large language models and multi-agent systems, and am actively studying these areas.
+
+I have a strong interest in civil aviation and aircraft, and I enjoy learning about aircraft handling and different aircraft types. I am also interested in automobiles, and tend to be somewhat more interested in internal combustion engine vehicles.
  
 
 A data-driven personal website
