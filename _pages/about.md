@@ -31,7 +31,8 @@ Education
       <td style="padding:14px 18px; border-top:1px solid #eef2f7;">School of Mathematics and Information Science, Yantai University</td>
       <td style="padding:14px 18px; border-top:1px solid #eef2f7;">
         <strong>🎓 Bachelor's</strong><br>
-        Built a strong academic foundation and explored my core interests.
+        Bachelor’s student in Mathematics and Applied Mathematics at the School of Mathematics and Information Science, Yantai University, home to the longest coastline of any university in China.<br>
+        <em>“Born by the sea, drawn here by dreams.”</em>
       </td>
     </tr>
     <tr style="background:#f9fcff;">
