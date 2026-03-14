@@ -40,7 +40,7 @@ Education
       <td style="padding:14px 18px; border-top:1px solid #eef2f7;">School of Mathematical Sciences, Beijing University of Posts and Telecommunications</td>
       <td style="padding:14px 18px; border-top:1px solid #eef2f7;">
         <strong>📘 Master's</strong><br>
-        Deepened my expertise through research, projects, and collaboration.
+        Master’s student in Mathematics.
       </td>
     </tr>
     <tr style="background:#ffffff;">
