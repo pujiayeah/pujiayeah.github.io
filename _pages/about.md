@@ -13,8 +13,10 @@ My name is Pu Jia. I am currently a master's student in the School of Mathematic
 
 
 <p align="center">
-  <img src="/images/plane.png" alt="plane" width="400">
+  <img src="/images/plane.png" alt="plane" width="500">
 </p>
+
+
 
 Education
 ======
@@ -77,7 +79,7 @@ Education
         Currently applying for doctoral programs and preparing for the next academic journey.
       </td>
     </tr>
-  </tbody>
+<!--  </tbody>
 </table>
 
     <tr style="background:#f9fcff;">
@@ -101,7 +103,8 @@ Education
         Currently applying for doctoral programs and preparing for the next academic journey.
       </td>
     </tr>
-  </tbody>
+  <!--</tbody>
+  <!--
 </table>
 <!--
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
