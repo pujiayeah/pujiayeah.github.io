@@ -82,6 +82,30 @@ Education
     </tr>
   </tbody>
 </table>
+
+    <tr style="background:#f9fcff;">
+      <td style="padding:18px 20px; border-top:1px solid #eef2f7; white-space:nowrap; vertical-align:top; font-weight:600; color:#2563eb;">2023 – Present</td>
+      <td style="padding:18px 20px; border-top:1px solid #eef2f7; vertical-align:top; word-break:break-word; line-height:1.7;">
+        School of Mathematical Sciences, Beijing University of Posts and Telecommunications
+      </td>
+      <td style="padding:18px 20px; border-top:1px solid #eef2f7; vertical-align:top; word-break:break-word; line-height:1.8;">
+        <strong>📘 Master's</strong><br>
+        Master’s student in Mathematics.
+      </td>
+    </tr>
+
+    <tr style="background:#ffffff;">
+      <td style="padding:18px 20px; border-top:1px solid #eef2f7; white-space:nowrap; vertical-align:top; font-weight:600; color:#2563eb;">Applying</td>
+      <td style="padding:18px 20px; border-top:1px solid #eef2f7; vertical-align:top; word-break:break-word; line-height:1.7;">
+        Doctoral Programs
+      </td>
+      <td style="padding:18px 20px; border-top:1px solid #eef2f7; vertical-align:top; word-break:break-word; line-height:1.8;">
+        <strong>📝 PhD</strong><br>
+        Currently applying for doctoral programs and preparing for the next academic journey.
+      </td>
+    </tr>
+  </tbody>
+</table>
 <!--
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 <!--
