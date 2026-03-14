@@ -15,7 +15,7 @@ I have a strong interest in civil aviation and aircraft, and I enjoy learning ab
   <img src="/images/plane.png" alt="plane" width="400">
 </p>
 
-A data-driven personal website
+Education
 ======
 <table style="width:100%; border-collapse:separate; border-spacing:0; overflow:hidden; border-radius:16px; font-family:Arial, sans-serif; box-shadow:0 8px 24px rgba(0,0,0,0.08);">
   <thead>
