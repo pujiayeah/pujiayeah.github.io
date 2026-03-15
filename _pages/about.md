@@ -44,7 +44,7 @@ I have also developed a strong interest in **the reasoning capabilities of large
 
 - **Self-testing measurements in networks from star shaped to tree shaped based on genuine network nonlocality**
   
-  <ins><b>Pu Jia</b></ins>, Fenzhuo Guo, et al.
+  Authors: <ins><b>Pu Jia</b></ins>, Fenzhuo Guo, et al.
   
   Journal: *PHYSICAL REVIEW A 112, 052415 (2025)*
   
