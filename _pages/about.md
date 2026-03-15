@@ -32,41 +32,37 @@ In my spare time, I enjoy a variety of hobbies and interests, including the foll
 Education
 ======
 
-### 🎓 Bachelor's (2019 – 2023)
+- ### 🎓 Bachelor's (2019 – 2023)
 
-<img src="/images/ytu.png" alt="ytu" width="30" style="vertical-align: middle; margin-right: 6px;"> **School of Mathematics and Information Science, Yantai University**
+  <img src="/images/ytu.png" alt="ytu" width="30" style="vertical-align: middle; margin-right: 6px;"> **School of Mathematics and Information Science, Yantai University**
 
 
-Earned a Bachelor's degree in Mathematics and Applied Mathematics from the School of Mathematics and Information Science, Yantai University, home to the longest coastline of any university in China.
+  Earned a Bachelor's degree in Mathematics and Applied Mathematics from the School of Mathematics and Information Science, Yantai University, home to the longest coastline of any university in China.
 
-*"Born by the sea, drawn here by dreams."*
+  *"Born by the sea, drawn here by dreams."*
 
----
 
-### 📘 Master's (2023 – Present)
 
-<img src="/images/bupt.png" alt="bupt" width="30" style="vertical-align: middle; margin-right: 6px;"> **School of Mathematical Sciences, Beijing University of Posts and Telecommunications**
+- ### 📘 Master's (2023 – Present)
 
-Master's student in Mathematics at the School of Mathematical Sciences, Beijing University of Posts and Telecommunications, known as the "Huangpu Academy of Information Industry".
+  <img src="/images/bupt.png" alt="bupt" width="30" style="vertical-align: middle; margin-right: 6px;"> **School of Mathematical Sciences, Beijing University of Posts and Telecommunications**
 
----
+  Master's student in Mathematics at the School of Mathematical Sciences, Beijing University of Posts and Telecommunications, known as the "Huangpu Academy of Information Industry".
 
-### 📝 PhD (Applying)
 
-Currently applying for doctoral programs and preparing for the next academic journey.
+
+- ### 📝 PhD (Applying)
+
+  Currently applying for doctoral programs and preparing for the next academic journey.
 
 Publications
 ======
 ## Journal
 
-## Publication
-
 - **Self-testing measurements in networks from star shaped to tree shaped based on genuine network nonlocality**
 
-  <u>**Pu Jia**</u>, Fenzhuo Guo, et al.
+  <ins><b>Pu Jia</b></ins>, Fenzhuo Guo, et al.
 
-  *PHYSICAL REVIEW A* 112, 052415 (2025)
+  *PHYSICAL REVIEW A*
 
   DOI: [10.1103/v1jp-167d](https://doi.org/10.1103/v1jp-167d) | [Journal Link](https://journals.aps.org/pra/abstract/10.1103/v1jp-167d)
-
-  > Jia P, Guo F, Dong H, et al. Self-testing measurements in networks from star shaped to tree shaped based on genuine network nonlocality[J]. Physical Review A, 2025, 112(5): 052415.
