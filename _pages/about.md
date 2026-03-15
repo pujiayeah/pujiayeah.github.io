@@ -42,7 +42,7 @@ I have also developed a strong interest in **the reasoning capabilities of large
 # :black_nib: Publications
 ---
 
-- **Self-testing measurements in networks from star shaped to tree shaped based on genuine network nonlocality**
+- **Self-testing measurements in networks from star-shaped to tree-shaped based on genuine network nonlocality**
   
   Authors: <ins><b>Pu Jia</b></ins>, Fenzhuo Guo, et al.
   
