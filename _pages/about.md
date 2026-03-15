@@ -30,7 +30,8 @@ Education
 
 ### 🎓 Bachelor's (2019 – 2023)
 
-**School of Mathematics and Information Science, Yantai University**
+<img src="/images/ytu.png" alt="ytu" width="50" style="vertical-align: middle; margin-right: 8px;"> **School of Mathematics and Information Science, Yantai University**
+
 
 Bachelor's student in Mathematics and Applied Mathematics at the School of Mathematics and Information Science, Yantai University, home to the longest coastline of any university in China.
 
@@ -40,7 +41,7 @@ Bachelor's student in Mathematics and Applied Mathematics at the School of Mathe
 
 ### 📘 Master's (2023 – Present)
 
-**School of Mathematical Sciences, Beijing University of Posts and Telecommunications**
+<img src="/images/bupt.png" alt="bupt" width="50" style="vertical-align: middle; margin-right: 8px;"> **School of Mathematical Sciences, Beijing University of Posts and Telecommunications**
 
 Master's student in Mathematics at BUPT, known as the "Huangpu Academy of Information Industry" in China.
 
