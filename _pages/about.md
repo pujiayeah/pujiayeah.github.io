@@ -11,10 +11,10 @@ About Me
 ======
 My name is Pu Jia. I am currently a master's student in the School of Mathematical Sciences at **Beijing University of Posts and Telecommunications (BUPT)**, enrolled in the Mathematics program in 2023. I received my bachelor's degree in Mathematics and Applied Mathematics from the School of Mathematics and Information Science at **Yantai University (YTU)**. My current master's research focuses on **quantum information**, with a particular interest in **device-independent self-testing of quantum systems**. I have also developed a strong interest in **the reasoning capabilities of large language models and multi-agent systems, and am actively studying these areas**.
 
-<p align="center">
-  <img src="/images/cat.png" alt="cat" width="400" style="margin-right: 12px;">
-  <img src="/images/LLM_Agent.png" alt="LLM Agent" width="400">
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 12px;">
+  <img src="/images/cat.png" alt="cat" style="width: 45%;">
+  <img src="/images/LLM_Agent.png" alt="LLM Agent" style="width: 45%;">
+</div>
 
 In my spare time, I enjoy a variety of hobbies and interests, including the following. ✈️ I have a strong interest in civil aviation and aircraft, and I enjoy learning about aircraft handling and different aircraft types. 🚗 I am also interested in automobiles, with a slight personal preference for internal combustion engine vehicles compared to newer energy-powered vehicles. 🚆 In addition, I am a railway enthusiast and enjoy learning about trains and railway systems.
 
@@ -41,7 +41,7 @@ Earned a Bachelor's degree in Mathematics and Applied Mathematics from the Schoo
 
 ### 📘 Master's (2023 – Present)
 
-<img src="/images/bupt.png" alt="bupt" width="50" style="vertical-align: middle; margin-right: 8px;"> **School of Mathematical Sciences, Beijing University of Posts and Telecommunications**
+<img src="/images/bupt.png" alt="bupt" width="30" style="vertical-align: middle; margin-right: 6px;"> **School of Mathematical Sciences, Beijing University of Posts and Telecommunications**
 
 Master's student in Mathematics at the School of Mathematical Sciences, Beijing University of Posts and Telecommunications, known as the "Huangpu Academy of Information Industry".
 
