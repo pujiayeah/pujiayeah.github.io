@@ -25,9 +25,10 @@ In my spare time, I enjoy a variety of hobbies and interests, including the foll
 
 Education
 ======
-**2019 – 2023 | School of Mathematics and Information Science, Yantai University**
 
-🎓 **Bachelor's**
+**2019 – 2023 | 🎓 Bachelor's**
+
+**School of Mathematics and Information Science, Yantai University**
 
 Bachelor's student in Mathematics and Applied Mathematics at the School of Mathematics and Information Science, Yantai University, home to the longest coastline of any university in China.
 
@@ -35,16 +36,14 @@ Bachelor's student in Mathematics and Applied Mathematics at the School of Mathe
 
 ---
 
-**2023 – Present | School of Mathematical Sciences, Beijing University of Posts and Telecommunications**
+**2023 – Present | 📘 Master's**
 
-📘 **Master's**
+**School of Mathematical Sciences, Beijing Univrsity of Posts and Telecommunications**
 
 Master's student in Mathematics.
 
 ---
 
-**Applying | Applying**
-
-📝 **PhD**
+**Applying | 📝 PhD**
 
 Currently applying for doctoral programs and preparing for the next academic journey.
