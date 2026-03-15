@@ -12,8 +12,8 @@ About Me
 My name is Pu Jia. I am currently a master's student in the School of Mathematical Sciences at **Beijing University of Posts and Telecommunications (BUPT)**, enrolled in the Mathematics program in 2023. I received my bachelor's degree in Mathematics and Applied Mathematics from the School of Mathematics and Information Science at **Yantai University (YTU)**. My current master's research focuses on **quantum information**, with a particular interest in **device-independent self-testing of quantum systems**. I have also developed a strong interest in **the reasoning capabilities of large language models and multi-agent systems, and am actively studying these areas**.
 
 <p align="center">
-  <img src="/images/cat.png" alt="cat" width="450" style="margin-right: 12px;">
-  <img src="/images/LLM_Agent.png" alt="LLM Agent" width="450">
+  <img src="/images/cat.png" alt="cat" width="400" style="margin-right: 12px;">
+  <img src="/images/LLM_Agent.png" alt="LLM Agent" width="400">
 </p>
 
 In my spare time, I enjoy a variety of hobbies and interests, including the following. ✈️ I have a strong interest in civil aviation and aircraft, and I enjoy learning about aircraft handling and different aircraft types. 🚗 I am also interested in automobiles, with a slight personal preference for internal combustion engine vehicles compared to newer energy-powered vehicles. 🚆 In addition, I am a railway enthusiast and enjoy learning about trains and railway systems.
