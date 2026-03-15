@@ -61,6 +61,6 @@ In my spare time, I enjoy a variety of hobbies and interests, including the foll
   
   <ins><b>Pu Jia</b></ins>, Fenzhuo Guo, et al.
   
-  *PHYSICAL REVIEW A*
+  *PHYSICAL REVIEW A 112, 052415 (2025)*
   
   :hammer: [DOI](https://doi.org/10.1103/v1jp-167d) :pill: [Journal Link](https://journals.aps.org/pra/abstract/10.1103/v1jp-167d)
