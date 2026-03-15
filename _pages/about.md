@@ -30,7 +30,7 @@ Education
 
 ### 🎓 Bachelor's (2019 – 2023)
 
-<img src="/images/ytu.png" alt="ytu" width="50" style="vertical-align: middle; margin-right: 8px;"> **School of Mathematics and Information Science, Yantai University**
+<img src="/images/ytu.png" alt="ytu" width="30" style="vertical-align: middle; margin-right: 6px;"> **School of Mathematics and Information Science, Yantai University**
 
 
 Earned a Bachelor's degree in Mathematics and Applied Mathematics from the School of Mathematics and Information Science, Yantai University, home to the longest coastline of any university in China.
