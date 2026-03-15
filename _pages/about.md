@@ -23,6 +23,7 @@ In my spare time, I enjoy a variety of hobbies and interests, including the foll
   <img src="/images/plane.png" alt="plane" style="width: 45%;">
   <img src="/images/train.png" alt="train" style="width: 45%;">
 </div>
+<div style="margin-top: 1cm;"></div>
 <div align="center" style="display: flex; justify-content: center; gap: 12px;">
   <img src="/images/abyssinian.png" alt="abyssinian" style="width: 30%;">
   <img src="/images/Thai.png" alt="Thai" style="width: 30%;">
@@ -34,7 +35,7 @@ Education
 
 - ### 🎓 Bachelor's (2019 – 2023)
 
-  <img src="/images/ytu.png" alt="ytu" width="30" style="vertical-align: middle; margin-right: 6px;"> **School of Mathematics and Information Science, Yantai University**
+  <img src="/images/ytu.png" alt="ytu" width="20" style="vertical-align: middle; margin-right: 4px;"> **School of Mathematics and Information Science, Yantai University**
 
 
   Earned a Bachelor's degree in Mathematics and Applied Mathematics from the School of Mathematics and Information Science, Yantai University, home to the longest coastline of any university in China.
@@ -45,7 +46,7 @@ Education
 
 - ### 📘 Master's (2023 – Present)
 
-  <img src="/images/bupt.png" alt="bupt" width="30" style="vertical-align: middle; margin-right: 6px;"> **School of Mathematical Sciences, Beijing University of Posts and Telecommunications**
+  <img src="/images/bupt.png" alt="bupt" width="20" style="vertical-align: middle; margin-right: 4px;"> **School of Mathematical Sciences, Beijing University of Posts and Telecommunications**
 
   Master's student in Mathematics at the School of Mathematical Sciences, Beijing University of Posts and Telecommunications, known as the "Huangpu Academy of Information Industry".
 
