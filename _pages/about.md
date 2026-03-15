@@ -35,17 +35,16 @@ I have also developed a strong interest in **the reasoning capabilities of large
 - *Applying*: Currently seeking Ph.D. opportunities in related fields as the next step in the academic journey.
 
 # :black_nib: Publications
-## :rainbow: Journal
 
 - **Self-testing measurements in networks from star shaped to tree shaped based on genuine network nonlocality**
   
   <ins><b>Pu Jia</b></ins>, Fenzhuo Guo, et al.
   
-  *PHYSICAL REVIEW A 112, 052415 (2025)*
+  Journal: *PHYSICAL REVIEW A 112, 052415 (2025)*
   
   :hammer: [DOI](https://doi.org/10.1103/v1jp-167d) :pill: [Journal Link](https://journals.aps.org/pra/abstract/10.1103/v1jp-167d)
 
-  # :house_with_garden: Beyond Research
+# :house_with_garden: Beyond Research
 In my spare time, I enjoy a variety of hobbies and interests, including the following. 
 - ✈️ **Civil Aviation & Aircraft** – Fascinated by aircraft handling and different aircraft types.
 - 🚗 **Automobiles** – An enthusiast with a slight preference for internal combustion engine vehicles over newer energy-powered ones.
