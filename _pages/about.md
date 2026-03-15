@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+About Me
+======
 My name is Pu Jia. I am currently a master's student in the School of Mathematical Sciences at **Beijing University of Posts and Telecommunications (BUPT)**, enrolled in the Mathematics program in 2023. I received my bachelor's degree in Mathematics and Applied Mathematics from the School of Mathematics and Information Science at **Yantai University (YTU)**. My current master's research focuses on **quantum information**, with a particular interest in **device-independent self-testing of quantum systems**. I have also developed a strong interest in **the reasoning capabilities of large language models and multi-agent systems, and am actively studying these areas**.
 
 <p align="center">
@@ -47,3 +49,6 @@ Master's student in Mathematics at BUPT, known as the "Huangpu Academy of Inform
 ### 📝 PhD (Applying)
 
 Currently applying for doctoral programs and preparing for the next academic journey.
+
+Publications
+======
