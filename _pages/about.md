@@ -22,26 +22,6 @@ I have also developed a strong interest in **the reasoning capabilities of large
 # :fire: News 
 📣📣📣 Nov 7, 2025 — Thrilled to share that our paper has been officially accepted by *Physical Review A*!
 
-# :house_with_garden: Beyond Research
-In my spare time, I enjoy a variety of hobbies and interests, including the following. 
-- ✈️ **Civil Aviation & Aircraft** – Fascinated by aircraft handling and different aircraft types.
-- 🚗 **Automobiles** – An enthusiast with a slight preference for internal combustion engine vehicles over newer energy-powered ones.
-- 🚆 **Railway Systems** – Passionate about trains and railway systems.
-- 🐱 **Animals** – Fond of animals, especially **Abyssinian cats**, **Siamese cats (Traditional Thai type)**, and **Labrador Retrievers**.
-
-<div align="center" style="display: flex; justify-content: center; gap: 12px;">
-  <img src="/images/plane.png" alt="plane" style="width: 45%;">
-  <img src="/images/train.png" alt="train" style="width: 45%;">
-</div>
-<div style="margin-top: 1cm;"></div>
-<div align="center" style="display: flex; justify-content: center; gap: 12px;">
-  <img src="/images/abyssinian.png" alt="abyssinian" style="width: 30%;">
-  <img src="/images/Thai.png" alt="Thai" style="width: 30%;">
-  <img src="/images/labrador.png" alt="labrador" style="width: 30%;">
-</div>
-
-
-
 # :books: Education
 - *2019 – 2023*: <img src="/images/ytu.png" alt="ytu" width="20" style="vertical-align: middle; margin-right: 4px;"> **School of Mathematics and Information Science, Yantai University (YTU)**
 
@@ -64,3 +44,21 @@ In my spare time, I enjoy a variety of hobbies and interests, including the foll
   *PHYSICAL REVIEW A 112, 052415 (2025)*
   
   :hammer: [DOI](https://doi.org/10.1103/v1jp-167d) :pill: [Journal Link](https://journals.aps.org/pra/abstract/10.1103/v1jp-167d)
+
+  # :house_with_garden: Beyond Research
+In my spare time, I enjoy a variety of hobbies and interests, including the following. 
+- ✈️ **Civil Aviation & Aircraft** – Fascinated by aircraft handling and different aircraft types.
+- 🚗 **Automobiles** – An enthusiast with a slight preference for internal combustion engine vehicles over newer energy-powered ones.
+- 🚆 **Railway Systems** – Passionate about trains and railway systems.
+- 🐱 **Animals** – Fond of animals, especially **Abyssinian cats**, **Siamese cats (Traditional Thai type)**, and **Labrador Retrievers**.
+
+<div align="center" style="display: flex; justify-content: center; gap: 12px;">
+  <img src="/images/plane.png" alt="plane" style="width: 45%;">
+  <img src="/images/train.png" alt="train" style="width: 45%;">
+</div>
+<div style="margin-top: 1cm;"></div>
+<div align="center" style="display: flex; justify-content: center; gap: 12px;">
+  <img src="/images/abyssinian.png" alt="abyssinian" style="width: 30%;">
+  <img src="/images/Thai.png" alt="Thai" style="width: 30%;">
+  <img src="/images/labrador.png" alt="labrador" style="width: 30%;">
+</div>
