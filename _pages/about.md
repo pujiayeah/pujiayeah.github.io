@@ -22,7 +22,7 @@ I have also developed a strong interest in **the reasoning capabilities of large
 # :fire: News 
 📣📣📣 Nov 7, 2025 — Thrilled to share that our paper has been officially accepted by *Physical Review A*!
 
-# Beyond Research
+# :house_with_garden: Beyond Research
 In my spare time, I enjoy a variety of hobbies and interests, including the following. 
 - ✈️ **Civil Aviation & Aircraft** – Fascinated by aircraft handling and different aircraft types.
 - 🚗 **Automobiles** – An enthusiast with a slight preference for internal combustion engine vehicles over newer energy-powered ones.
