@@ -40,7 +40,7 @@ Bachelor's student in Mathematics and Applied Mathematics at the School of Mathe
 
 **School of Mathematical Sciences, Beijing Univrsity of Posts and Telecommunications**
 
-Master's student in Mathematics.
+Master's student in Mathematics at BUPT, known as the "Huangpu Academy of Information Industry" in China.
 
 ---
 
