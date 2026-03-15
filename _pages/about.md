@@ -26,7 +26,7 @@ In my spare time, I enjoy a variety of hobbies and interests, including the foll
 Education
 ======
 
-**2019 – 2023 | 🎓 Bachelor's**
+### 🎓 Bachelor's (2019 – 2023)
 
 **School of Mathematics and Information Science, Yantai University**
 
@@ -36,14 +36,14 @@ Bachelor's student in Mathematics and Applied Mathematics at the School of Mathe
 
 ---
 
-**2023 – Present | 📘 Master's**
+### 📘 Master's (2023 – Present)
 
-**School of Mathematical Sciences, Beijing Univrsity of Posts and Telecommunications**
+**School of Mathematical Sciences, Beijing University of Posts and Telecommunications**
 
 Master's student in Mathematics at BUPT, known as the "Huangpu Academy of Information Industry" in China.
 
 ---
 
-**Applying | 📝 PhD**
+### 📝 PhD (Applying)
 
 Currently applying for doctoral programs and preparing for the next academic journey.
