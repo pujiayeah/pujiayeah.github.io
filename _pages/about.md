@@ -57,3 +57,16 @@ Currently applying for doctoral programs and preparing for the next academic jou
 
 Publications
 ======
+## Journal
+
+## Publication
+
+- **Self-testing measurements in networks from star shaped to tree shaped based on genuine network nonlocality**
+
+  <u>**Pu Jia**</u>, Fenzhuo Guo, et al.
+
+  *PHYSICAL REVIEW A* 112, 052415 (2025)
+
+  DOI: [10.1103/v1jp-167d](https://doi.org/10.1103/v1jp-167d) | [Journal Link](https://journals.aps.org/pra/abstract/10.1103/v1jp-167d)
+
+  > Jia P, Guo F, Dong H, et al. Self-testing measurements in networks from star shaped to tree shaped based on genuine network nonlocality[J]. Physical Review A, 2025, 112(5): 052415.
