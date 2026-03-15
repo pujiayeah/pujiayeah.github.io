@@ -66,4 +66,4 @@ Publications
   
   *PHYSICAL REVIEW A*
   
-  :hammer:[DOI](https://doi.org/10.1103/v1jp-167d):pill:[Journal Link](https://journals.aps.org/pra/abstract/10.1103/v1jp-167d)
+  :hammer: [DOI](https://doi.org/10.1103/v1jp-167d) :pill: [Journal Link](https://journals.aps.org/pra/abstract/10.1103/v1jp-167d)
