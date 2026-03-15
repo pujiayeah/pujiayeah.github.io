@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Cleared for landing — welcome to my homepage!"
+title: ":stuck_out_tongue_closed_eyes: Cleared for landing — welcome to my homepage!:fire:"
 author_profile: true
 redirect_from: 
   - /about/
