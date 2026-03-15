@@ -13,7 +13,7 @@ My name is Pu Jia. I am currently a master's student in the School of Mathematic
   <img src="/images/cat.png" alt="plane" width="500">
 </p>
 
-In my spare time, I enjoy a variety of hobbies and interests, including the following.✈️ I have a strong interest in civil aviation and aircraft, and I enjoy learning about aircraft handling and different aircraft types. 🚗 I am also interested in automobiles, with a slight personal preference for internal combustion engine vehicles compared to newer energy-powered vehicles. 🚆 In addition, I am a railway enthusiast and enjoy learning about trains and railway systems.
+In my spare time, I enjoy a variety of hobbies and interests, including the following. ✈️ I have a strong interest in civil aviation and aircraft, and I enjoy learning about aircraft handling and different aircraft types. 🚗 I am also interested in automobiles, with a slight personal preference for internal combustion engine vehicles compared to newer energy-powered vehicles. 🚆 In addition, I am a railway enthusiast and enjoy learning about trains and railway systems.
 
 
 <p align="center">
