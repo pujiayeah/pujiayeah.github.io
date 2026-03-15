@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Pu Jia"
 title_separator          : "-"
 name                     : &name "Pu Jia"
@@ -27,7 +27,7 @@ author:
   name             : "Pu Jia"
   pronouns         : # example: "she/her"  
   bio              : "Mathematics Graduate Student and Aviation Enthusiast"
-  location         : "Beijing"
+  location         : "Beijing, Beijing"
   employer         : "Beijing University of Posts and<br>&nbsp;Telecommunications"
   uri              : # URL
   email            : "pu_jia@yeah.net" 
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-#  github           : "academicpages"
+  github           : "https://github.com/pujiayeah"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
