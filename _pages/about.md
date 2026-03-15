@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ======
-My name is Pu Jia. I am currently a master's student in the School of Mathematical Sciences at **Beijing University of Posts and Telecommunications (BUPT)**, enrolled in the Mathematics program in 2023. I received my bachelor's degree in Mathematics and Applied Mathematics from the School of Mathematics and Information Science at **Yantai University (YTU)**. My current master's research focuses on **quantum information**, with a particular interest in **device-independent self-testing of quantum systems**. I have also developed a strong interest in **the reasoning capabilities of large language models and multi-agent systems, and am actively studying these areas**.
+:sleeping:My name is Pu Jia. I am currently a master's student in the School of Mathematical Sciences at **Beijing University of Posts and Telecommunications (BUPT)**, enrolled in the Mathematics program in 2023. I received my bachelor's degree in Mathematics and Applied Mathematics from the School of Mathematics and Information Science at **Yantai University (YTU)**. :innocent:My current master's research focuses on **quantum information**, with a particular interest in **device-independent self-testing of quantum systems**. :grin:I have also developed a strong interest in **the reasoning capabilities of large language models and multi-agent systems, and am actively studying these areas**.
 
 <div align="center" style="display: flex; justify-content: center; gap: 12px;">
   <img src="/images/cat.png" alt="cat" style="width: 45%;">
@@ -60,9 +60,9 @@ Publications
 ## Journal
 
 - **Self-testing measurements in networks from star shaped to tree shaped based on genuine network nonlocality**
-
+  
   <ins><b>Pu Jia</b></ins>, Fenzhuo Guo, et al.
-
+  
   *PHYSICAL REVIEW A*
-
-  DOI: [10.1103/v1jp-167d](https://doi.org/10.1103/v1jp-167d) | [Journal Link](https://journals.aps.org/pra/abstract/10.1103/v1jp-167d)
+  
+  :hammer:[DOI](https://doi.org/10.1103/v1jp-167d):pill:[Journal Link](https://journals.aps.org/pra/abstract/10.1103/v1jp-167d)
