@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ":stuck_out_tongue_closed_eyes: Cleared for landing — welcome to my homepage!"
+title: "Cleared for landing — Welcome to my HOMEPAGE!:stuck_out_tongue_closed_eyes: "
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,10 +15,13 @@ My name is Pu Jia. I am currently a master's student in the School of Mathematic
 My current master's research focuses on **quantum information**, with a particular interest in **device-independent self-testing of quantum systems**. 
 I have also developed a strong interest in **the reasoning capabilities of large language models and multi-agent systems, and am actively studying these areas**.
 
-<div align="center" style="display: flex; justify-content: center; gap: 12px;">
-  <img src="/images/cat.png" alt="cat" style="width: 45%;">
-  <img src="/images/LLM_Agent.png" alt="LLM Agent" style="width: 45%;">
-</div>
+<p align="center">
+  <img src="/images/cat.png" alt="cat" width="60%">
+</p>
+
+<p align="center">
+  <img src="/images/LLM_Agent.png" alt="LLM Agent" width="60%">
+</p>
 
 # :fire: News 
 ---
