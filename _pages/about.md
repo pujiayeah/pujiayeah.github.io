@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Cleared for landing — Welcome to my HOMEPAGE!😝 "
+title: "Cleared for landing — Welcome to my HOMEPAGE! 😝 "
 author_profile: true
 redirect_from: 
   - /about/
