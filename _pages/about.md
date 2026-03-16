@@ -26,7 +26,7 @@ I have also developed a strong interest in **the reasoning capabilities of large
 # :fire: News 
 ---
 
-📣📣📣 Nov 7, 2025 — Thrilled to share that our paper has been officially accepted by *Physical Review A*!
+- 📣📣📣 Oct. 6, 2025 — Thrilled to share that [our paper](https://journals.aps.org/pra/abstract/10.1103/v1jp-167d) has been officially accepted by *Physical Review A*!
 
 # :books: Education
 ---
