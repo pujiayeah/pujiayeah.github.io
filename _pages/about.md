@@ -16,11 +16,11 @@ My current master's research focuses on **quantum information**, with a particul
 I have also developed a strong interest in **the reasoning capabilities of large language models and multi-agent systems, and am actively studying these areas**.
 
 <p align="center">
-  <img src="/images/cat.png" alt="cat" width="60%">
+  <img src="/images/cat.png" alt="cat" width="70%">
 </p>
 
 <p align="center">
-  <img src="/images/LLM_Agent.png" alt="LLM Agent" width="60%">
+  <img src="/images/LLM_Agent.png" alt="LLM Agent" width="70%">
 </p>
 
 # :fire: News 
