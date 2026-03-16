@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Cleared for landing — Welcome to my HOMEPAGE!:stuck_out_tongue_closed_eyes: "
+title: "Cleared for landing — Welcome to my HOMEPAGE!😝 "
 author_profile: true
 redirect_from: 
   - /about/
