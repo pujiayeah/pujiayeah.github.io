@@ -24,8 +24,7 @@ I have also developed a strong interest in **the reasoning capabilities of large
 </p>
 
 # :fire: News 
----
-
+- 📣📣📣Mar 19, 2026 — A Small Note (2026.03.19): To get this homepage online as quickly as possible, I let AI do some of the heavy lifting—mostly the image generation. Predictably, the result is a site that now looks like it was built by someone racing a deadline, so yes, updating it has officially become my problem.
 - 📣📣📣 Oct. 6, 2025 — Thrilled to share that [our paper](https://journals.aps.org/pra/abstract/10.1103/v1jp-167d) has been officially accepted by *Physical Review A*!
 
 # :books: Education
